@@ -6,4 +6,5 @@ Git is a free software distributed under the GPL.
 添加tt
 Creating a new branch is quick and simple.
 添加rr
+紧急任务，暂停当前分支工作
 
